@@ -1,2 +1,5 @@
 Console.writeLine("Add two variables");
 int x =Convert.ToInt32(Console ReadLine());
+*** Models ***
+Console.writeLine("Subtract two variables");
+int x =Convert.ToInt32(Console ReadLine());
